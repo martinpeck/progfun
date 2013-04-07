@@ -27,6 +27,7 @@ project/plugins/project/
 .project
 .metadata
 bin/**
+bin/**/*
 tmp/**
 tmp/**/*
 *.tmp
